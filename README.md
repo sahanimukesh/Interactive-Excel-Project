@@ -28,10 +28,6 @@ This project is an Excel-based dashboard analyzing Blinkit's sales performance, 
 3. Analyze key metrics through visual representations.
 4. Use insights to make informed business decisions.
 
-## Acknowledgment
-A huge thanks to **Swapnjeet S** for guidance and invaluable insights throughout this project! 🙌
-
----
 Feel free to contribute or reach out with feedback!
 
-### 🚀 Happy Analyzing!
+## Happy Analyzing!
